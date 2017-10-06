@@ -1,0 +1,5 @@
+[package]
+name = "asciipress"
+version = "0.0.1"
+authors = ["serprex"]
+repository = "https://github.com/serprex/asciipress"
